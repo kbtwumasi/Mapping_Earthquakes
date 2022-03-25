@@ -6,4 +6,4 @@ This project demonstrates knowledge of JavaScript, D3.js library, Leaflet, Mapbo
 
 The results is displayed in the image below. 
 
-![EarthQuake Map](/static/images/final_image.png)
+![EarthQuake Map](/Earthquake_Challenge/static/images/final_image.png)
